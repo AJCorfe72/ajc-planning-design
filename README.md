@@ -27,3 +27,5 @@ From then on, any change committed to the GitHub repository goes live automatica
 
 ## Contact form
 For now the form opens the visitor's email app with the message filled in. To have messages sent straight to your inbox, create a free form endpoint (for example Formspree or Web3Forms) and wire it into `js/main.js`.
+
+The `main` branch of this repository is the live site.
